@@ -1,0 +1,50 @@
+
+.nav-container{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+    width: 90%;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    
+    .logo-container{
+        display: flex;
+        flex-direction: row;
+
+        img{
+            width: 5rem;
+            height: 5rem;
+            margin-top: 1rem;
+            margin-right: 0.5rem;
+        }
+
+        a{
+            text-decoration: none;
+            /* font-family: "Lobster", sans-serif; */
+            font-family: "Edu VIC WA NT Beginner", cursive;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-size: 1.6rem;
+            text-shadow: 2px 2px 0 black;
+            
+        }
+    }
+    
+    .list-container{
+        display: flex;
+        flex-direction: row;
+        list-style: none;
+        gap: 3rem;
+        font-family: "Bebas Neue", sans-serif;
+
+        li a{
+            text-decoration: none;
+            font-size: 1.5rem;
+        }
+
+    }
+
+}
+
