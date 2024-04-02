@@ -16,18 +16,22 @@
         img{
             width: 5rem;
             height: 5rem;
-            margin-top: 1rem;
-            margin-right: 0.5rem;
+            /* margin-top: 1rem;
+            margin-right: 0.5rem; */
         }
-
-        a{
+            
+        h1{
             text-decoration: none;
-            /* font-family: "Lobster", sans-serif; */
-            font-family: "Edu VIC WA NT Beginner", cursive;
+            /* font-family: "Nerko One", cursive; */
+            font-family: "Edu SA Beginner", cursive;
             font-optical-sizing: auto;
-            font-weight: 500;
-            font-size: 1.6rem;
-            text-shadow: 2px 2px 0 black;
+            font-style: normal;
+            /* font-family: "Anton", sans-serif; */
+            font-weight: 700;
+            font-size: 3rem;
+            /* text-shadow: 0.5px 0.5px 0 black; */
+            margin: 0;
+            margin-left: 1rem;
             
         }
     }
@@ -38,6 +42,7 @@
         list-style: none;
         gap: 3rem;
         font-family: "Bebas Neue", sans-serif;
+        margin: 0;
 
         li a{
             text-decoration: none;

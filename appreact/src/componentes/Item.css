@@ -1,0 +1,5 @@
+.item-card{
+    &:hover{
+        background-color: rgb(234, 224, 224);
+    }
+}

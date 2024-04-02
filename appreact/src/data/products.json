@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1,  
+    "name": "Adidas Adizero ",
+    "brand": "Adidas",
+    "category": "Running",
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/459c0f454f1445aa9cb6af1f00bd2d12_9366/Zapatillas_Adizero_Adios_Pro_3.0_Verde_GW4249_01_standard.jpg",
+    "price": "149.000"
+  },
+   {
+  "id": 2,  
+  "name": "Adidas Supernova",
+  "brand": "Adidas",
+  "category": "Running",
+  "img": "https://i.ibb.co/ySCGSX2/adidas-running-supernova.webp",
+  "price": "134.000"
+ },
+ {
+  "id": 3,  
+  "name": "Nike Pegasus",
+  "brand": "Nike",
+  "category": "Running" ,
+  "img": "https://i.ibb.co/V9pcQNt/nike-running-pegasus.jpg",
+  "price": "169.000"
+ },
+ {
+  "id": 4,  
+  "name": "Nike Trail" ,
+  "brand": "Nike" ,
+  "category": "Running" ,
+  "img": "https://i.ibb.co/F8D2zSz/nike-running-trail.jpg",
+  "price": "115.000"
+ },
+ {
+  "id": 5,  
+  "name": "Nike Hypebeast",
+  "brand": "Nike",
+  "category": "Running",
+  "img": "https://fanatics.frgimages.com/new-york-giants/unisex-nike-royal-new-york-giants-zoom-pegasus-38-running-shoe_pi4170000_altimages_ff_4170599-bd9b5d2bc5c41ed96108alt1_full.jpg?_hv=2&w=900",
+  "price": "147.000"
+ },
+ {
+  "id": 6,  
+  "name": "Puma Nitro",
+  "brand": "Puma",
+  "category": "Running",
+  "img": "https://i.ibb.co/5TfhMvL/puma-running-nitro.webp",
+  "price": "99.000"
+ },
+ {
+  "id": 7,  
+  "name": "Puma Velocity",
+  "brand": "Puma",
+  "category": "Running",
+  "img": "https://i.ibb.co/6BktCKD/puma-running-velocity.jpg",
+  "price": "109.000"
+ },
+ {
+  "id": 8,  
+  "name": "Adidas Bounce" ,
+  "brand": "Adidas",
+  "category": "Deportivas" ,
+  "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/038b098f6f494d6a9efcafa4000b0f71_9366/Bounce_Legends_Turquesa_IE9279_01_standard.jpg",
+  "price": "113.000"
+ },
+ {
+  "id": 9,  
+  "name": "Adidas Slippers" ,
+  "brand": "Adidas",
+  "category": "Deportivas",
+  "img": "https://i.ibb.co/98C93pd/adidas-deportiva-slippers.webp",
+  "price": "127.000"
+ },
+ {
+  "id": 10,  
+  "name": "Adidas Exhibit",
+  "brand": "Adidas",
+  "category": "Deportivas",
+  "img": "https://i.ibb.co/6RWcV8f/adidas-deportiva-exhibit.jpg",
+  "price": "145.000"
+ },
+ {
+  "id": 11,  
+  "name": "Adidas Pro Next",
+  "brand": "Adidas",
+  "category": "Deportivas",
+  "img": "https://i.ibb.co/rfFMrvj/adidas-deportivas-pronext.jpg",
+  "price": "138.000"
+ },
+ {
+  "id": 12,  
+  "name": "Nike Elevate",
+  "brand": "Nike",
+  "category": "Deportivas",
+  "img": "https://i.ibb.co/DDy4XfZ/nike-deportiva-elevate.jpg",
+  "price": "124.000"
+ },
+ {
+  "id": 13,  
+  "name": "Nike Freak 1",
+  "brand": "Nike",
+  "category": "Deportivas",
+  "img": "https://image.goxip.com/jnALYaYb1r34NDn9uWqMTfckjsQ=/fit-in/500x500/filters:format(jpg):quality(80):fill(white)/https:%2F%2Fimages.stockx.com%2Fimages%2FNike-Zoom-Freak-1-Antetokounbros-Product.jpg",
+  "price": "165.000"
+ },
+ {
+  "id": 59,  
+  "name": "Nike Freak 2",
+  "brand": "Nike",
+  "category": "Deportivas",
+  "img": "https://www.manelsanchez.com/uploads/media/images/zoom-freak-2-midnight-navy-11.jpg",
+  "price": "170.000"
+ },
+ {
+  "id": 60,  
+  "name": "Nike Freak 3",
+  "brand": "Nike",
+  "category": "Deportivas",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8_aXSEYkRmzotzvyrhjKbktZW5l9SIKwv_2JxfvrZWS9A7BV9wHFsmdSpOyAmSR6Hso&usqp=CAU",
+  "price": "180.000"
+ },
+ {
+  "id": 14,  
+  "name": "Nike Freak 4",
+  "brand": "Nike",
+  "category": "Deportivas",
+  "img": "https://i.ibb.co/FwYHKxx/nike-deportiva-freak4.jpg",
+  "price": "175.000"
+ },
+ {
+  "id": 15,  
+  "name": "Nike Zoom",
+  "brand": "Nike",
+  "category": "Deportivas",
+  "img": "https://i.ibb.co/tP3kDYL/nike-deportiva-zoom.jpg",
+  "price": "155.000"
+ },
+ {
+  "id": 16,  
+  "name": "Puma Fade",
+  "brand": "Puma",
+  "category": "Deportivas",
+  "img": "https://i.ibb.co/6szVDzd/puma-deportiva-lamelofade.webp",
+  "price": "185.000"
+ },
+ {
+  "id": 17,  
+  "name": "Puma Lamelo",
+  "brand": "Puma",
+  "category": "Deportivas",
+  "img": "https://i.ibb.co/mBgR52M/puma-deportivas-lamelo.jpg",
+  "price": "210.000"
+ },
+ {
+  "id": 18,  
+  "name": "Puma Uproar",
+  "brand": "Puma",
+  "category": "Deportivas",
+  "img": "https://images-na.ssl-images-amazon.com/images/I/51dvoKKEVIL.SS400.jpg",
+  "price": "140.000"
+ },
+ {
+  "id": 19,  
+  "name": "Puma Allpro",
+  "brand": "Puma",
+  "category": "Deportivas",
+  "img": "https://i.ibb.co/wBFtWNc/puma-deportiva-allpro.jpg",
+  "price": "150.000"
+ },
+ {
+  "id": 21,  
+  "name": "Adidas NiteBall 1",
+  "brand": "Adidas",
+  "category": "Urbanas" ,
+  "img": "https://static.runnea.com/images/202211/adidas-niteball-hombre-sneakers-400x400x80xX.jpg?1",
+  "price": "145.000"
+ },
+ {
+  "id": 22,  
+  "name": "Adidas NiteBall 2",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://i.ibb.co/LdX4fBp/adidas-urbanas-niteball2.webp",
+  "price": "145.000"
+ },
+ {
+  "id": 23,  
+  "name": "Adidas NiteBall 3",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://assets.solesense.com/en/images/products/500/adidas-niteball-cream-white-pink-tint-fw3317_1.jpg",
+  "price": "145.000"
+ },
+ {
+  "id": 24,  
+  "name": "Adidas NiteBall 4",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b65b3e16fb5043dea4c3acc2015e1cc1_9366/Niteball_Shoes_Black_H67360_01_standard.jpg",
+  "price": "145.000"
+ },
+ {
+  "id": 25,  
+  "name": "Adidas NiteBall 5",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/554677232b404ca7a321adf300259e8f_9366/Zapatillas_Niteball_2.0_Negro_GX0771_01_standard.jpg",
+  "price": "145.000"
+ },
+ {
+  "id": 26,  
+  "name": "Adidas NiteBall 6",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://i.ibb.co/T8WJx8v/adidas-urbanas-niteball6.jpg",
+  "price": "145.000"
+ },
+ {
+  "id": 81,  
+  "name": "Adidas NiteBall 7",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://static.ftshp.digital/img/p/9/2/9/1/7/9/929179-full_product.jpg",
+  "price": "145.000"
+ },
+ {
+  "id": 80,  
+  "name": "Adidas NiteBall 8",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://sport-mood.com/image/cache/catalog/G/GY8567/GY8567_1-1000x1000.jpg",
+  "price": "145.000"
+ },
+ {
+  "id": 20,  
+  "name": "Adidas Forum",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/c22b49033a6d49868a06af9c0157fa1b_9366/FORUM_EXHIBIT_LOW_2_Blanco_ID2563_01_standard.jpg",
+  "price": "120.000"
+ },
+ {
+  "id": 27,  
+  "name": "Adidas Adi2000 1",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://i.ibb.co/s1F7GY1/adidas-urbanas-adi2000.jpg" ,
+  "price": "139.000"
+ },
+ {
+  "id": 28,  
+  "name": "Adidas Adi2000 2",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://i.ibb.co/ZcKJDtQ/adidas-urbanas-adi20001.jpg" ,
+  "price": "139.000"
+ },
+ {
+  "id": 29,  
+  "name": "Adidas Adi2000 3",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://i.ibb.co/1LJRrL8/adidas-urbanas-adi20002.jpg",
+  "price": "139.000"
+ },
+ {
+  "id": 30,  
+  "name": "Nike Air Max 90",
+  "brand": "Nike",
+  "category": "Urbanas",
+  "img": "https://i.ibb.co/9VZ9BMj/nike-urbana-airmax.jpg",
+  "price": "145.000"
+ },
+ {
+  "id": 31,  
+  "name": "Nike Air Max 97",
+  "brand": "Nike",
+  "category": "Urbanas",
+  "img": "https://i.ibb.co/sH4bHkW/nike-urbana-airmax97.jpg",
+  "price": "155.000"
+ },
+ {
+  "id": 32,  
+  "name": "Nike Air Force 1",
+  "brand": "Nike",
+  "category": "Urbanas",
+  "img": "https://i.ibb.co/tL5G9Sb/nike-urbana-airforcec.jpg",
+  "price": "125.000"
+ },
+ {
+  "id": 33,  
+  "name": "Nike Phantom",
+  "brand": "Nike",
+  "category": "Futbol",
+  "img": "https://i.ibb.co/w0k3Jkt/nike-futbol-phantom.jpg" ,
+  "price": "90.000"
+ },
+ {
+  "id": 34,  
+  "name": "Nike Mercurial",
+  "brand": "Nike",
+  "category": "Futbol",
+  "img": "https://i.ibb.co/s5yNk2F/nike-futbol-mercurial.webp" ,
+  "price": "109.000"
+ },
+ {
+  "id": 35,  
+  "name": "Nike Hypervenom",
+  "brand": "Nike",
+  "category": "Futbol",
+  "img": "https://i.ibb.co/QrWNy5Z/nike-futbol-hypervenom.jpg" ,
+  "price": "105.000"
+ },
+ {
+  "id": 36,  
+  "name": "Adidas Predator",
+  "brand": "Adidas",
+  "category": "Futbol",
+  "img": "https://i.ibb.co/R2NtCZW/adidas-futbol-predator.jpg" ,
+  "price": "95.000"
+ },
+ {
+  "id": 37,  
+  "name": "Adidas Crazyfast",
+  "brand": "Adidas",
+  "category": "Futbol",
+  "img": "https://i.ibb.co/xFbmmwy/adidas-futbol-crazyfast.webp",
+  "price": "99.000"
+ },
+ {
+  "id": 38,  
+  "name": "Puma Future",
+  "brand": "Puma",
+  "category": "Futbol",
+  "img": "https://i.ibb.co/HVKJStX/puma-futbol-future.webp" ,
+  "price": "79.000"
+ },
+ {
+  "id": 39,  
+  "name": "Puma Ultraplay",
+  "brand": "Puma",
+  "category": "Futbol",
+  "img": "https://i.ibb.co/dWxv68R/puma-futbol-ultraplay.webp" ,
+  "price": "85.000"
+ },
+ {
+  "id": 40,  
+  "name": "Puma Nitro Elite",
+  "brand": "Puma",
+  "category": "Exclusivas",
+  "img": "https://www.run24.mx/cdn/shop/files/377901-01-2_800x.jpg?v=1686785437",
+  "price": "210.000"
+ },
+ {
+  "id": 41,  
+  "name": "Nike Air200",
+  "brand": "Nike",
+  "category": "Exclusivas",
+  "img": "https://i.ibb.co/gTBvyFg/nike-especiales.webp",
+  "price": "250.000"
+ },
+ {
+  "id": 42,  
+  "name": "Puma Goldenball",
+  "brand": "Puma",
+  "category": "Exclusivas",
+  "img": "https://i.ibb.co/PYQFwND/puma-exclusivas-goldenball.jpg",
+  "price": "390.000"
+ },
+ {
+  "id": 43,  
+  "name": "Nike Lebron",
+  "brand": "Nike",
+  "category": "Exclusivas",
+  "img": "https://i.ibb.co/JK4y9pZ/nike-exclusivas-lebron.jpg",
+  "price": "280.000"
+ },
+ {
+  "id": 44,  
+  "name": "Nike ISPA",
+  "brand": "Nike",
+  "category": "Exclusivas",
+  "img": "https://i.ibb.co/qsgVdFc/nike-especiales-ispa.webp",
+  "price": "350.000"
+ },
+ {
+  "id": 45,  
+  "name": "Nike AirMoney",
+  "brand": "Nike",
+  "category": "Exclusivas",
+  "img": "https://i.ibb.co/n1VJj5r/nike-exclusivas-airmoney.webp",
+  "price": "239.000"
+ },
+ {
+  "id": 46,  
+  "name": "Nike Swarovski",
+  "brand": "Nike",
+  "category": "Exclusivas",
+  "img": "https://i.ibb.co/Wcjq24J/nike-especiales-swarovski.jpg",
+  "price": "265.000"
+ },
+ {
+  "id": 47,  
+  "name": "Nike Genesis",
+  "brand": "Nike",
+  "category": "Exclusivas",
+  "img": "https://static.fibre2fashion.com/newsresource/images/280/nike-rtfkt_291951.jpg",
+  "price": "259.000"
+ },
+ {
+  "id": 48,  
+  "name": "Nike Backseries",
+  "brand": "Nike",
+  "category": "Exclusivas",
+  "img": "https://i.ibb.co/RcjCy9n/adidas-especial-backseries.jpg",
+  "price": "230.000"
+ },
+ {
+  "id": 49,  
+  "name": "Adidas Trae Unlimited",
+  "brand": "Adidas",
+  "category": "Deportivas",
+  "img": "https://www.tradeinn.com/f/13941/139417472/adidas-zapatillas-baloncesto-trae-unlimited.jpg",
+  "price": "135.000"
+ },
+ {
+  "id": 50,  
+  "name": "Adidas Trae Unlimited 2",
+  "brand": "Adidas",
+  "category": "Deportivas",
+  "img": "https://static.netshoes.com.br/produtos/trae-unlimited-2-adidas/88/FB9-3523-888/FB9-3523-888_zoom2.jpg?ts=1702326434&ims=544x",
+  "price": "163.000"
+ },
+ {
+  "id": 51,  
+  "name": "Adidas Ubersonic",
+  "brand": "Adidas",
+  "category": "Deportivas",
+  "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/19295a3dea564d8f8a22ae99009cfbdc_9366/adizero_Ubersonic_4_M_Clay_Negro_GY4004_01_standard.jpg",
+  "price": "139.000"
+ },
+ {
+  "id": 52,  
+  "name": "Puma Trinity Hybrid",
+  "brand": "Puma",
+  "category": "Urbanas",
+  "img": "https://tiendapodium.com.ar/wp-content/uploads/2024/02/P-397074-03-Botas-Puma-Trinity-Mid-Hybrid-Hombre-Beige-Negro-Lila-jpg.webp",
+  "price": "210.000"
+ },
+ {
+  "id": 53,  
+  "name": "Puma Graviton",
+  "brand": "Puma",
+  "category": "Urbanas",
+  "img": "https://falabella.scene7.com/is/image/FalabellaPE/118010133_1?wid=800&hei=800&qlt=70",
+  "price": "116.000"
+ },
+ {
+  "id": 54,  
+  "name": "Nike Freak 1 Greece",
+  "brand": "Nike",
+  "category": "Exclusivas",
+  "img": "https://i.ebayimg.com/images/g/8CMAAOSwpWxjh79y/s-l600.png",
+  "price": "240.000"
+ },
+ {
+  "id": 55,  
+  "name": "Nike Zoom GT Jump",
+  "brand": "Nike",
+  "category": "Exclusivas",
+  "img": "https://cdn3.fuikaomar.es/60343-medium_default/zapatillas-nike-air-zoom-gt-jump-chaos.jpg",
+  "price": "199.000"
+ },
+ {
+  "id": 56,  
+  "name": "Puma Lex",
+  "brand": "Puma",
+  "category": "Running",
+  "img": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwc57fc131/products/PU_377143-02/PU_377143-02-1.JPG",
+  "price": "85.000"
+ },
+ {
+  "id": 57,  
+  "name": "Puma Twich",
+  "brand": "Puma",
+  "category": "Running",
+  "img": "https://s3.sa-east-1.amazonaws.com/www.vaypol.com.ar/variants/z1xb91igzda9rbs0vznvtn19q9a4/c77c2a06864ac9aca38dc5bd9371de015471edcdbf322dfb14411689bf968ae5",
+  "price": "90.000"
+ },
+ {
+  "id": 58,  
+  "name": "New Balance Tempo",
+  "brand": "New Balance",
+  "category": "Running",
+  "img": "https://www.runnerschoicekingston.com/cdn/shop/products/FreshFoamTempo-CF_1200x1200.png?v=1610657234",
+  "price": "82.000"
+ },
+ {
+  "id": 61,  
+  "name": "New Balance Hierro",
+  "brand": "New Balance",
+  "category": "Running",
+  "img": "https://cf.shopee.tw/file/sg-11134201-22100-5njsokrpuoivbe",
+  "price": "102.000"
+ },
+ {
+  "id": 62,  
+  "name": "New Balance More",
+  "brand": "New Balance",
+  "category": "Running",
+  "img": "https://www.newbalance.com.ar/on/demandware.static/-/Sites-siteCatalog_NBEU/default/dw701fc8ff/new_images/N10225078/N10225078070100/N10225078070100-1.jpeg",
+  "price": "105.000"
+ },
+ {
+  "id": 63,  
+  "name": "New Balance Dynasoft",
+  "brand": "New Balance",
+  "category": "Running",
+  "img": "https://deportesjesussanchez.com/wp-content/uploads/2022/08/ypntrcd4_nb_02_i.webp",
+  "price": "114.000"
+ },
+ {
+  "id": 64,  
+  "name": "Asics Netburner",
+  "brand": "Asics",
+  "category": "Deportivas",
+  "img": "https://asics.vteximg.com.br/arquivos/ids/191991-1000-1000/1051A074_403_00.jpg?v=638319492478600000",
+  "price": "120.000"
+ },
+ {
+  "id": 65,  
+  "name": "Asics Quantum",
+  "brand": "Asics",
+  "category": "Running",
+  "img": "https://asics.vteximg.com.br/arquivos/ids/189618-1000-1000/1201A659_001_01.jpg?v=638231569456430000",
+  "price": "126.000"
+ },
+ {
+  "id": 66,  
+  "name": "Asics Novablast",
+  "brand": "New Balance",
+  "category": "Running",
+  "img": "https://asics.vteximg.com.br/arquivos/ids/191912-1000-1000/1011B458_403_00.jpg?v=638304027220930000",
+  "price": "140.000"
+ },
+ {
+  "id": 67,  
+  "name": "Asics Court",
+  "brand": "Asics",
+  "category": "Deportivas",
+  "img": "https://asics.vteximg.com.br/arquivos/ids/191966-1000-1000/1041A364_400_00.jpg?v=638319492228170000",
+  "price": "150.000"
+ },
+ {
+  "id": 68,  
+  "name": "Asics Resolution",
+  "brand": "Asics",
+  "category": "Running",
+  "img": "https://asics.vteximg.com.br/arquivos/ids/191005-1000-1000/1041A375_400_01.jpg?v=638261660829400000",
+  "price": "155.000"
+ },
+ {
+  "id": 69,  
+  "name": "Asics Nimbus",
+  "brand": "Asics",
+  "category": "Running",
+  "img": "https://asics.vteximg.com.br/arquivos/ids/193067-1000-1000/1011B774_400_00.jpg?v=638374789155570000",
+  "price": "136.000"
+ },
+ {
+  "id": 79,  
+  "name": "Asics Kayano",
+  "brand": "Asics",
+  "category": "Running",
+  "img": "https://asics.vteximg.com.br/arquivos/ids/193004-1000-1000/1011B764_100_00.jpg?v=638363563016600000",
+  "price": "124.000"
+ },
+ {
+  "id": 70,  
+  "name": "Adidas Campus",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://thelinecl.b-cdn.net/img/products/ADI-HQ6638-1_1024.png",
+  "price": "160.000"
+ },
+ {
+  "id": 71,  
+  "name": "Adidas Campus",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/75a21dc95e764ba5b37ff8b368a816da_9366/CAMPUS_00s_Verde_IH5058_01_standard.jpg",
+  "price": "160.000"
+ },
+ {
+  "id": 72,  
+  "name": "Adidas Campus",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F07%2Fadidas-originals-grey-one-campus-GY9472-5.jpg?cbr=1&q=90",
+  "price": "160.000"
+ },
+ {
+  "id": 73,  
+  "name": "Adidas Air Max 90",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://essential.vtexassets.com/arquivos/ids/1298370-800-auto?v=638467456189900000&width=800&height=auto&aspect=true",
+  "price": "135.000"
+ },
+ {
+  "id": 74,  
+  "name": "Adidas Air Max 90",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://media.revistagq.com/photos/600e95fd2e86c58dd2fc98fb/master/w_1600%2Cc_limit/Nike_air-max-1-lv8-dark-teal-green.jpg",
+  "price": "125.000"
+ },
+ {
+  "id": 75,  
+  "name": "Adidas Air Max DN",
+  "brand": "Adidas",
+  "category": "Urbanas",
+  "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2653d8a9-9c70-418e-829b-d70fe2737514/calzado-air-max-dn-q51Wwn.png",
+  "price": "145.000"
+ },
+ {
+  "id": 76,  
+  "name": "Adidas Switch",
+  "brand": "Adidas",
+  "category": "Running",
+  "img": "https://www.tradeinn.com/f/13993/139935064/adidas-zapatillas-running-switch-fwd.jpg",
+  "price": "105.000"
+ },
+ {
+  "id": 77,  
+  "name": "Adidas 4DFWD",
+  "brand": "Adidas",
+  "category": "Running",
+  "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/87cd0b80e0434c758b15ae9801598eb2_9366/Zapatillas_de_Running_adidas_4DFWD_2_Gris_GX9250_01_standard.jpg",
+  "price": "135.000"
+ },
+ {
+  "id": 78,  
+  "name": "Adidas Decrypt",
+  "brand": "Adidas",
+  "category": "Exclusivas",
+  "img": "https://admin.itsnicethat.com/images/oHck3FXwxUZqqE4oyU2ZwbsRBjE=/225891/format-webp%7Cwidth-1440/stink-studios-rtfkt-nike-dunk-genesis-digital-itsnicethat-05.jpg",
+  "price": "235.000"
+ }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

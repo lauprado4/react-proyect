@@ -1,0 +1,10 @@
+.item-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 3rem;
+    font-family: "Bebas Neue", sans-serif;
+
+    
+}
