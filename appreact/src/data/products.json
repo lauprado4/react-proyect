@@ -5,7 +5,8 @@
     "brand": "Adidas",
     "category": "Running",
     "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/459c0f454f1445aa9cb6af1f00bd2d12_9366/Zapatillas_Adizero_Adios_Pro_3.0_Verde_GW4249_01_standard.jpg",
-    "price": "149.000"
+    "price": "149.000",
+    "description": "Lightweight and breathable, perfect for cardio and agility training."
   },
    {
   "id": 2,  
@@ -13,7 +14,8 @@
   "brand": "Adidas",
   "category": "Running",
   "img": "https://i.ibb.co/ySCGSX2/adidas-running-supernova.webp",
-  "price": "134.000"
+  "price": "134.000",
+  "description": "Stability-focused with enhanced cushioning for weightlifting and strength training."
  },
  {
   "id": 3,  
@@ -21,7 +23,8 @@
   "brand": "Nike",
   "category": "Running" ,
   "img": "https://i.ibb.co/V9pcQNt/nike-running-pegasus.jpg",
-  "price": "169.000"
+  "price": "169.000",
+  "description": "Designed for speed and agility drills, featuring a responsive sole and flexible upper."
  },
  {
   "id": 4,  
@@ -29,7 +32,8 @@
   "brand": "Nike" ,
   "category": "Running" ,
   "img": "https://i.ibb.co/F8D2zSz/nike-running-trail.jpg",
-  "price": "115.000"
+  "price": "115.000",
+  "description": "Durable and supportive, ideal for high-intensity workouts and cross-training."
  },
  {
   "id": 5,  
@@ -37,7 +41,8 @@
   "brand": "Nike",
   "category": "Running",
   "img": "https://fanatics.frgimages.com/new-york-giants/unisex-nike-royal-new-york-giants-zoom-pegasus-38-running-shoe_pi4170000_altimages_ff_4170599-bd9b5d2bc5c41ed96108alt1_full.jpg?_hv=2&w=900",
-  "price": "147.000"
+  "price": "147.000",
+  "description": "Versatile and comfortable, suitable for both indoor and outdoor training sessions."
  },
  {
   "id": 6,  
@@ -45,7 +50,8 @@
   "brand": "Puma",
   "category": "Running",
   "img": "https://i.ibb.co/5TfhMvL/puma-running-nitro.webp",
-  "price": "99.000"
+  "price": "99.000",
+  "description": "Pivot points on the outsole for quick lateral movements during circuit training."
  },
  {
   "id": 7,  
@@ -53,7 +59,8 @@
   "brand": "Puma",
   "category": "Running",
   "img": "https://i.ibb.co/6BktCKD/puma-running-velocity.jpg",
-  "price": "109.000"
+  "price": "109.000",
+  "description": "Aggressive tread pattern for traction on various surfaces, from gym floors to outdoor tracks."
  },
  {
   "id": 8,  
@@ -61,7 +68,8 @@
   "brand": "Adidas",
   "category": "Deportivas" ,
   "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/038b098f6f494d6a9efcafa4000b0f71_9366/Bounce_Legends_Turquesa_IE9279_01_standard.jpg",
-  "price": "113.000"
+  "price": "113.000",
+  "description": "Dynamic Fit system for a secure and adaptive fit during fast-paced handball games."
  },
  {
   "id": 9,  
@@ -69,7 +77,8 @@
   "brand": "Adidas",
   "category": "Deportivas",
   "img": "https://i.ibb.co/98C93pd/adidas-deportiva-slippers.webp",
-  "price": "127.000"
+  "price": "127.000",
+  "description": "Protective collar padding and lockdown straps for secure ankle support during defensive play."
  },
  {
   "id": 10,  
@@ -77,7 +86,8 @@
   "brand": "Adidas",
   "category": "Deportivas",
   "img": "https://i.ibb.co/6RWcV8f/adidas-deportiva-exhibit.jpg",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Lightweight and responsive for quick cuts and explosive movements during handball games."
  },
  {
   "id": 11,  
@@ -85,7 +95,8 @@
   "brand": "Adidas",
   "category": "Deportivas",
   "img": "https://i.ibb.co/rfFMrvj/adidas-deportivas-pronext.jpg",
-  "price": "138.000"
+  "price": "138.000",
+  "description": "Reinforced midsole and pivot point for stability and control during pivots."
  },
  {
   "id": 12,  
@@ -93,7 +104,8 @@
   "brand": "Nike",
   "category": "Deportivas",
   "img": "https://i.ibb.co/DDy4XfZ/nike-deportiva-elevate.jpg",
-  "price": "124.000"
+  "price": "124.000",
+  "description": "Sleek design with hidden traction elements for smooth moves on the court."
  },
  {
   "id": 13,  
@@ -101,7 +113,8 @@
   "brand": "Nike",
   "category": "Deportivas",
   "img": "https://image.goxip.com/jnALYaYb1r34NDn9uWqMTfckjsQ=/fit-in/500x500/filters:format(jpg):quality(80):fill(white)/https:%2F%2Fimages.stockx.com%2Fimages%2FNike-Zoom-Freak-1-Antetokounbros-Product.jpg",
-  "price": "165.000"
+  "price": "165.000",
+  "description": "UA ClutchFit technology for a second skin-like fit and responsive support."
  },
  {
   "id": 59,  
@@ -109,7 +122,8 @@
   "brand": "Nike",
   "category": "Deportivas",
   "img": "https://www.manelsanchez.com/uploads/media/images/zoom-freak-2-midnight-navy-11.jpg",
-  "price": "170.000"
+  "price": "170.000",
+  "description": "Boost foam midsole for energy return and cushioning on every step and jump."
  },
  {
   "id": 60,  
@@ -117,7 +131,8 @@
   "brand": "Nike",
   "category": "Deportivas",
   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8_aXSEYkRmzotzvyrhjKbktZW5l9SIKwv_2JxfvrZWS9A7BV9wHFsmdSpOyAmSR6Hso&usqp=CAU",
-  "price": "180.000"
+  "price": "180.000",
+  "description": "Secure fit with lockdown straps for stability during explosive movements."
  },
  {
   "id": 14,  
@@ -125,7 +140,8 @@
   "brand": "Nike",
   "category": "Deportivas",
   "img": "https://i.ibb.co/FwYHKxx/nike-deportiva-freak4.jpg",
-  "price": "175.000"
+  "price": "175.000",
+  "description": "Durable materials and reinforced toe cap for protection during aggressive play."
  },
  {
   "id": 15,  
@@ -133,7 +149,8 @@
   "brand": "Nike",
   "category": "Deportivas",
   "img": "https://i.ibb.co/tP3kDYL/nike-deportiva-zoom.jpg",
-  "price": "155.000"
+  "price": "155.000",
+  "description": "Traction pattern optimized for grip on the court, delivering control and agility."
  },
  {
   "id": 16,  
@@ -141,7 +158,8 @@
   "brand": "Puma",
   "category": "Deportivas",
   "img": "https://i.ibb.co/6szVDzd/puma-deportiva-lamelofade.webp",
-  "price": "185.000"
+  "price": "185.000",
+  "description": "Breathable mesh upper with synthetic overlays for durability and support."
  },
  {
   "id": 17,  
@@ -149,7 +167,8 @@
   "brand": "Puma",
   "category": "Deportivas",
   "img": "https://i.ibb.co/mBgR52M/puma-deportivas-lamelo.jpg",
-  "price": "210.000"
+  "price": "210.000",
+  "description": "Low-top design with a responsive cushioning system for agility and speed."
  },
  {
   "id": 18,  
@@ -157,7 +176,8 @@
   "brand": "Puma",
   "category": "Deportivas",
   "img": "https://images-na.ssl-images-amazon.com/images/I/51dvoKKEVIL.SS400.jpg",
-  "price": "140.000"
+  "price": "140.000",
+  "description": "Protective padding and reinforced heel for stability during defensive stances."
  },
  {
   "id": 19,  
@@ -165,7 +185,8 @@
   "brand": "Puma",
   "category": "Deportivas",
   "img": "https://i.ibb.co/wBFtWNc/puma-deportiva-allpro.jpg",
-  "price": "150.000"
+  "price": "150.000",
+  "description": "Premium materials and craftsmanship for durability and performance on the court."
  },
  {
   "id": 21,  
@@ -173,7 +194,8 @@
   "brand": "Adidas",
   "category": "Urbanas" ,
   "img": "https://static.runnea.com/images/202211/adidas-niteball-hombre-sneakers-400x400x80xX.jpg?1",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Classic design with a modern twist, perfect for everyday wear."
  },
  {
   "id": 22,  
@@ -181,7 +203,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://i.ibb.co/LdX4fBp/adidas-urbanas-niteball2.webp",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Comfortable and stylish sneakers for navigating urban landscapes."
  },
  {
   "id": 23,  
@@ -189,7 +212,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://assets.solesense.com/en/images/products/500/adidas-niteball-cream-white-pink-tint-fw3317_1.jpg",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Lightweight and breathable for active city lifestyles."
  },
  {
   "id": 24,  
@@ -197,7 +221,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b65b3e16fb5043dea4c3acc2015e1cc1_9366/Niteball_Shoes_Black_H67360_01_standard.jpg",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Versatile and sophisticated, ideal for work or casual outings."
  },
  {
   "id": 25,  
@@ -205,7 +230,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/554677232b404ca7a321adf300259e8f_9366/Zapatillas_Niteball_2.0_Negro_GX0771_01_standard.jpg",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Designed for comfort and functionality during daily commutes."
  },
  {
   "id": 26,  
@@ -213,7 +239,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://i.ibb.co/T8WJx8v/adidas-urbanas-niteball6.jpg",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Durable and supportive for pounding the city pavement."
  },
  {
   "id": 81,  
@@ -221,7 +248,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://static.ftshp.digital/img/p/9/2/9/1/7/9/929179-full_product.jpg",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Sleek sneakers with a grippy outsole for city adventures."
  },
  {
   "id": 80,  
@@ -229,7 +257,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://sport-mood.com/image/cache/catalog/G/GY8567/GY8567_1-1000x1000.jpg",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Elegant and comfortable flats for navigating city streets with style."
  },
  {
   "id": 20,  
@@ -237,7 +266,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/c22b49033a6d49868a06af9c0157fa1b_9366/FORUM_EXHIBIT_LOW_2_Blanco_ID2563_01_standard.jpg",
-  "price": "120.000"
+  "price": "120.000",
+  "description": "Stylish and timeless, perfect for urban professionals."
  },
  {
   "id": 27,  
@@ -245,7 +275,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://i.ibb.co/s1F7GY1/adidas-urbanas-adi2000.jpg" ,
-  "price": "139.000"
+  "price": "139.000",
+  "description": "Stylish lace-up sneakers with an urban edge."
  },
  {
   "id": 28,  
@@ -253,7 +284,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://i.ibb.co/ZcKJDtQ/adidas-urbanas-adi20001.jpg" ,
-  "price": "139.000"
+  "price": "139.000",
+  "description": "Classic urban loafers with a modern twist, perfect for city nightlife."
  },
  {
   "id": 29,  
@@ -261,7 +293,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://i.ibb.co/1LJRrL8/adidas-urbanas-adi20002.jpg",
-  "price": "139.000"
+  "price": "139.000",
+  "description": "Trendy sneakers with eye-catching details for urban fashionistas."
  },
  {
   "id": 30,  
@@ -269,7 +302,8 @@
   "brand": "Nike",
   "category": "Urbanas",
   "img": "https://i.ibb.co/9VZ9BMj/nike-urbana-airmax.jpg",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Stylish platform sneakers for adding height and urban flair to any outfit."
  },
  {
   "id": 31,  
@@ -277,7 +311,8 @@
   "brand": "Nike",
   "category": "Urbanas",
   "img": "https://i.ibb.co/sH4bHkW/nike-urbana-airmax97.jpg",
-  "price": "155.000"
+  "price": "155.000",
+  "description": "Tech-inspired sneakers for modern urban living."
  },
  {
   "id": 32,  
@@ -285,7 +320,17 @@
   "brand": "Nike",
   "category": "Urbanas",
   "img": "https://i.ibb.co/tL5G9Sb/nike-urbana-airforcec.jpg",
-  "price": "125.000"
+  "price": "125.000",
+  "description": "Trendy streetwear sneakers with a durable outsole for urban explorations."
+ },
+ {
+  "id": 89,  
+  "name": "Adidas Speedportal Messi LE",
+  "brand": "Adidas",
+  "category": "Futbol",
+  "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6389ff4bc7774bd480a6af1f00dc9c3f_9366/Botines_X_Speedportal_Leyenda.1_Terreno_Firme_Dorado_HP9138_01_standard.jpg",
+  "price": "100.000",
+  "description": "Deadly accuracy and precision for finishing chances in front of goal."
  },
  {
   "id": 33,  
@@ -293,7 +338,8 @@
   "brand": "Nike",
   "category": "Futbol",
   "img": "https://i.ibb.co/w0k3Jkt/nike-futbol-phantom.jpg" ,
-  "price": "90.000"
+  "price": "90.000",
+  "description": "Enhanced control and accuracy for precise passing and shooting."
  },
  {
   "id": 34,  
@@ -301,15 +347,53 @@
   "brand": "Nike",
   "category": "Futbol",
   "img": "https://i.ibb.co/s5yNk2F/nike-futbol-mercurial.webp" ,
-  "price": "109.000"
+  "price": "109.000",
+  "description": "Superior stability and traction for solid defending and tackling."
  },
  {
   "id": 35,  
   "name": "Nike Hypervenom",
   "brand": "Nike",
   "category": "Futbol",
-  "img": "https://i.ibb.co/QrWNy5Z/nike-futbol-hypervenom.jpg" ,
-  "price": "105.000"
+  "img": "https://static.sprintercdn.com/products/0356036/phantom-gx-pro-cro-bta-tcos-fg_0356036_00_4_3250977838.jpg" ,
+  "price": "105.000",
+  "description": "Supreme agility and responsiveness for quick turns and bursts of speed."
+ },
+ {
+  "id": 80,  
+  "name": "Nike Vapormax",
+  "brand": "Nike",
+  "category": "Futbol",
+  "img": "https://classic.cdn.media.amplience.net/i/hibbett/E6060_0011_right" ,
+  "price": "128.000",
+  "description": "Supreme agility and responsiveness for quick turns and bursts of speed."
+ },
+ {
+  "id": 81,  
+  "name": "Nike Air Zoom",
+  "brand": "Nike",
+  "category": "Futbol",
+  "img": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw9c9a2b05/products/NI_DO9345-694/NI_DO9345-694-1.JPG" ,
+  "price": "147.000",
+  "description": "Supreme agility and responsiveness for quick turns and bursts of speed."
+ },
+ {
+  "id": 82,  
+  "name": "Adidas Speedflow",
+  "brand": "Adidas",
+  "category": "Futbol",
+  "img": "https://micelisport.com/wp-content/uploads/2022/02/Scarpe_da_calcio_X_Speedflow.2_Multi_Ground_Blu_GW7477_01_standard-600x600.jpg" ,
+  "price": "133.000",
+  "description": "Supreme agility and responsiveness for quick turns and bursts of speed."
+ },
+ {
+  "id": 83,  
+  "name": "Adidas Crazyfast Messi LE",
+  "brand": "Adidas",
+  "category": "Futbol",
+  "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/13cfca739ce74dc1895d301c2603733f_9366/Chaussure_X_Crazyfast_Messi_Elite_Terrain_souple_Bleu_IE8676_01_standard_hover.jpg" ,
+  "price": "128.000",
+  "description": "Supreme agility and responsiveness for quick turns and bursts of speed."
  },
  {
   "id": 36,  
@@ -317,31 +401,71 @@
   "brand": "Adidas",
   "category": "Futbol",
   "img": "https://i.ibb.co/R2NtCZW/adidas-futbol-predator.jpg" ,
-  "price": "95.000"
+  "price": "95.000",
+  "description": "Powerful strikes and shots with reinforced strike zones for added power."
  },
  {
   "id": 37,  
   "name": "Adidas Crazyfast",
   "brand": "Adidas",
   "category": "Futbol",
-  "img": "https://i.ibb.co/xFbmmwy/adidas-futbol-crazyfast.webp",
-  "price": "99.000"
+  "img": "https://www.dexter.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwbc55fd2b/products/ADGZ0027/ADGZ0027-1.JPG?sw=600&sh=600",
+  "price": "99.000",
+  "description": "Deadly accuracy and precision for finishing chances in front of goal."
+ },
+ {
+  "id": 84,  
+  "name": "Adidas Speedportal",
+  "brand": "Adidas",
+  "category": "Futbol",
+  "img": "https://www.tfcfootball.com.my/wp-content/uploads/2022/10/GW8448.png",
+  "price": "149.000",
+  "description": "Deadly accuracy and precision for finishing chances in front of goal."
  },
  {
   "id": 38,  
   "name": "Puma Future",
   "brand": "Puma",
   "category": "Futbol",
-  "img": "https://i.ibb.co/HVKJStX/puma-futbol-future.webp" ,
-  "price": "79.000"
+  "img": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwbb27773d/products/PU107371-03/PU107371-03-1.JPG" ,
+  "price": "79.000",
+  "description": "Commanding presence and agility for goalkeepers in the box."
  },
  {
-  "id": 39,  
-  "name": "Puma Ultraplay",
+  "id": 85,  
+  "name": "Puma Ultra",
   "brand": "Puma",
   "category": "Futbol",
-  "img": "https://i.ibb.co/dWxv68R/puma-futbol-ultraplay.webp" ,
-  "price": "85.000"
+  "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_706,h_706/global/107149/03/sv01/fnd/ARG/fmt/png" ,
+  "price": "121.000",
+  "description": "Lightning-fast speed and agility for beating defenders down the wings."
+ },
+ {
+  "id": 86,  
+  "name": "Puma Future FG",
+  "brand": "Puma",
+  "category": "Futbol",
+  "img": "https://dpjye2wk9gi5z.cloudfront.net/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/zoom/1027023-0199V1.jpg" ,
+  "price": "97.000",
+  "description": "Lightning-fast speed and agility for beating defenders down the wings."
+ },
+ {
+  "id": 87,  
+  "name": "Puma Ultimate",
+  "brand": "Puma",
+  "category": "Futbol",
+  "img": "https://www.futbolemotion.com/imagesarticulos/220641/medianas/bota-puma-future-7-match-rush-fgag-strong-gray-cool-dark-gray-electric-lime-1.jpg" ,
+  "price": "85.000",
+  "description": "Lightning-fast speed and agility for beating defenders down the wings."
+ },
+ {
+  "id": 88,  
+  "name": "Puma Future Z",
+  "brand": "Puma",
+  "category": "Futbol",
+  "img": "https://thumblr.uniid.it/product/223833/065415b27658.jpg" ,
+  "price": "118.000",
+  "description": "Lightning-fast speed and agility for beating defenders down the wings."
  },
  {
   "id": 40,  
@@ -349,7 +473,8 @@
   "brand": "Puma",
   "category": "Exclusivas",
   "img": "https://www.run24.mx/cdn/shop/files/377901-01-2_800x.jpg?v=1686785437",
-  "price": "210.000"
+  "price": "210.000",
+  "description": "Cutting-edge design meets unrivaled performance in the Puma Nitro Elite, featuring responsive cushioning and a sleek, futuristic silhouette."
  },
  {
   "id": 41,  
@@ -357,7 +482,8 @@
   "brand": "Nike",
   "category": "Exclusivas",
   "img": "https://i.ibb.co/gTBvyFg/nike-especiales.webp",
-  "price": "250.000"
+  "price": "250.000",
+  "description": "Experience limitless energy return with the Nike Air200, featuring Zoom Air pods and React foam for a responsive ride that keeps you going mile after mile."
  },
  {
   "id": 42,  
@@ -365,7 +491,8 @@
   "brand": "Puma",
   "category": "Exclusivas",
   "img": "https://i.ibb.co/PYQFwND/puma-exclusivas-goldenball.jpg",
-  "price": "390.000"
+  "price": "390.000",
+  "description": " Dominate the competition with the Puma Goldenball, designed for explosive speed and agility on the field with innovative traction patterns and lightweight construction."
  },
  {
   "id": 43,  
@@ -373,7 +500,8 @@
   "brand": "Nike",
   "category": "Exclusivas",
   "img": "https://i.ibb.co/JK4y9pZ/nike-exclusivas-lebron.jpg",
-  "price": "280.000"
+  "price": "280.000",
+  "description": "Engineered for speed and agility, the Nike Lebron Pro boasts a lightweight construction and a snug, sock-like fit for maximum comfort and support."
  },
  {
   "id": 44,  
@@ -381,7 +509,8 @@
   "brand": "Nike",
   "category": "Exclusivas",
   "img": "https://i.ibb.co/qsgVdFc/nike-especiales-ispa.webp",
-  "price": "350.000"
+  "price": "350.000",
+  "description": "Cutting-edge design meets unrivaled performance in the Nike Ispa, featuring responsive cushioning and a sleek, futuristic silhouette."
  },
  {
   "id": 45,  
@@ -389,7 +518,8 @@
   "brand": "Nike",
   "category": "Exclusivas",
   "img": "https://i.ibb.co/n1VJj5r/nike-exclusivas-airmoney.webp",
-  "price": "239.000"
+  "price": "239.000",
+  "description": "Elevate your style with the Nike AirMoney, featuring premium materials and the iconic Air Force cushioning for all-day comfort and bold street style."
  },
  {
   "id": 46,  
@@ -397,7 +527,8 @@
   "brand": "Nike",
   "category": "Exclusivas",
   "img": "https://i.ibb.co/Wcjq24J/nike-especiales-swarovski.jpg",
-  "price": "265.000"
+  "price": "265.000",
+  "description": "Dreamy sneakers adorned with Swarovski diamond accents, offering a blend of luxury and comfort for the fashion-forward individual."
  },
  {
   "id": 47,  
@@ -405,7 +536,8 @@
   "brand": "Nike",
   "category": "Exclusivas",
   "img": "https://static.fibre2fashion.com/newsresource/images/280/nike-rtfkt_291951.jpg",
-  "price": "259.000"
+  "price": "259.000",
+  "description": "Step up your sneaker game with the Nike Genesis, featuring premium leather and suede materials for maximum comfort."
  },
  {
   "id": 48,  
@@ -413,7 +545,8 @@
   "brand": "Nike",
   "category": "Exclusivas",
   "img": "https://i.ibb.co/RcjCy9n/adidas-especial-backseries.jpg",
-  "price": "230.000"
+  "price": "230.000",
+  "description": " Dominate the competition with the Nike Backseries, designed for explosive speed and agility on the field with innovative traction patterns and lightweight construction."
  },
  {
   "id": 49,  
@@ -421,7 +554,8 @@
   "brand": "Adidas",
   "category": "Deportivas",
   "img": "https://www.tradeinn.com/f/13941/139417472/adidas-zapatillas-baloncesto-trae-unlimited.jpg",
-  "price": "135.000"
+  "price": "135.000",
+  "description": "Quick-drying materials and breathable construction for comfort during intense games."
  },
  {
   "id": 50,  
@@ -429,7 +563,8 @@
   "brand": "Adidas",
   "category": "Deportivas",
   "img": "https://static.netshoes.com.br/produtos/trae-unlimited-2-adidas/88/FB9-3523-888/FB9-3523-888_zoom2.jpg?ts=1702326434&ims=544x",
-  "price": "163.000"
+  "price": "163.000",
+  "description": "Aggressive traction pattern for grip on any court surface, providing confidence in every step."
  },
  {
   "id": 51,  
@@ -437,7 +572,8 @@
   "brand": "Adidas",
   "category": "Deportivas",
   "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/19295a3dea564d8f8a22ae99009cfbdc_9366/adizero_Ubersonic_4_M_Clay_Negro_GY4004_01_standard.jpg",
-  "price": "139.000"
+  "price": "139.000",
+  "description": "Reinforced toe cap and lateral stability for lockdown defense and quick lateral movements."
  },
  {
   "id": 52,  
@@ -445,7 +581,8 @@
   "brand": "Puma",
   "category": "Urbanas",
   "img": "https://tiendapodium.com.ar/wp-content/uploads/2024/02/P-397074-03-Botas-Puma-Trinity-Mid-Hybrid-Hombre-Beige-Negro-Lila-jpg.webp",
-  "price": "210.000"
+  "price": "210.000",
+  "description": "All-terrain outsole for outdoor training in rugged environments."
  },
  {
   "id": 53,  
@@ -453,7 +590,8 @@
   "brand": "Puma",
   "category": "Urbanas",
   "img": "https://falabella.scene7.com/is/image/FalabellaPE/118010133_1?wid=800&hei=800&qlt=70",
-  "price": "116.000"
+  "price": "116.000",
+  "description": "Rugged retro sneakers for outdoor urban adventures."
  },
  {
   "id": 54,  
@@ -461,7 +599,8 @@
   "brand": "Nike",
   "category": "Exclusivas",
   "img": "https://i.ebayimg.com/images/g/8CMAAOSwpWxjh79y/s-l600.png",
-  "price": "240.000"
+  "price": "240.000",
+  "description": "Push your limits with the Nike Freak 1, featuring React foam cushioning and a supportive fit for explosive energy return and unmatched performance on the track or the court."
  },
  {
   "id": 55,  
@@ -469,7 +608,8 @@
   "brand": "Nike",
   "category": "Exclusivas",
   "img": "https://cdn3.fuikaomar.es/60343-medium_default/zapatillas-nike-air-zoom-gt-jump-chaos.jpg",
-  "price": "199.000"
+  "price": "199.000",
+  "description": "Find your edge with the Nike Zoom GT Jump, featuring Zoom Air technology for responsive cushioning and a lightweight, breathable upper for optimal performance."
  },
  {
   "id": 56,  
@@ -477,7 +617,8 @@
   "brand": "Puma",
   "category": "Running",
   "img": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwc57fc131/products/PU_377143-02/PU_377143-02-1.JPG",
-  "price": "85.000"
+  "price": "85.000",
+  "description": "Dynamic support and multidirectional flexibility for agility drills and quick movements."
  },
  {
   "id": 57,  
@@ -485,7 +626,8 @@
   "brand": "Puma",
   "category": "Running",
   "img": "https://s3.sa-east-1.amazonaws.com/www.vaypol.com.ar/variants/z1xb91igzda9rbs0vznvtn19q9a4/c77c2a06864ac9aca38dc5bd9371de015471edcdbf322dfb14411689bf968ae5",
-  "price": "90.000"
+  "price": "90.000",
+  "description": "Stable platform with a raised heel for squats, deadlifts, and other weightlifting exercises."
  },
  {
   "id": 58,  
@@ -493,7 +635,8 @@
   "brand": "New Balance",
   "category": "Running",
   "img": "https://www.runnerschoicekingston.com/cdn/shop/products/FreshFoamTempo-CF_1200x1200.png?v=1610657234",
-  "price": "82.000"
+  "price": "82.000",
+  "description": "Responsive cushioning and a secure fit for long-distance running and interval training."
  },
  {
   "id": 61,  
@@ -501,7 +644,8 @@
   "brand": "New Balance",
   "category": "Running",
   "img": "https://cf.shopee.tw/file/sg-11134201-22100-5njsokrpuoivbe",
-  "price": "102.000"
+  "price": "102.000",
+  "description": "Enhanced ankle support and cushioning for explosive movements and plyometrics."
  },
  {
   "id": 62,  
@@ -509,7 +653,8 @@
   "brand": "New Balance",
   "category": "Running",
   "img": "https://www.newbalance.com.ar/on/demandware.static/-/Sites-siteCatalog_NBEU/default/dw701fc8ff/new_images/N10225078/N10225078070100/N10225078070100-1.jpeg",
-  "price": "105.000"
+  "price": "105.000",
+  "description": "Slip-on design with a snug fit, perfect for interval training and boot camp workouts."
  },
  {
   "id": 63,  
@@ -517,7 +662,8 @@
   "brand": "New Balance",
   "category": "Running",
   "img": "https://deportesjesussanchez.com/wp-content/uploads/2022/08/ypntrcd4_nb_02_i.webp",
-  "price": "114.000"
+  "price": "114.000",
+  "description": "Grippy outsole with durable traction for traction and stability during lateral movements."
  },
  {
   "id": 64,  
@@ -525,7 +671,8 @@
   "brand": "Asics",
   "category": "Deportivas",
   "img": "https://asics.vteximg.com.br/arquivos/ids/191991-1000-1000/1051A074_403_00.jpg?v=638319492478600000",
-  "price": "120.000"
+  "price": "120.000",
+  "description": "Luxurious materials and premium craftsmanship for standout style and high-flying dunks."
  },
  {
   "id": 65,  
@@ -533,7 +680,8 @@
   "brand": "Asics",
   "category": "Running",
   "img": "https://asics.vteximg.com.br/arquivos/ids/189618-1000-1000/1201A659_001_01.jpg?v=638231569456430000",
-  "price": "126.000"
+  "price": "126.000",
+  "description": "Lightweight and responsive, designed for running drills and cardio intervals."
  },
  {
   "id": 66,  
@@ -541,7 +689,8 @@
   "brand": "New Balance",
   "category": "Running",
   "img": "https://asics.vteximg.com.br/arquivos/ids/191912-1000-1000/1011B458_403_00.jpg?v=638304027220930000",
-  "price": "140.000"
+  "price": "140.000",
+  "description": "Energy-returning midsole for explosive speed and acceleration during sprints."
  },
  {
   "id": 67,  
@@ -549,7 +698,8 @@
   "brand": "Asics",
   "category": "Deportivas",
   "img": "https://asics.vteximg.com.br/arquivos/ids/191966-1000-1000/1041A364_400_00.jpg?v=638319492228170000",
-  "price": "150.000"
+  "price": "150.000",
+  "description": "Pronation control and arch support for runners and athletes with stability needs."
  },
  {
   "id": 68,  
@@ -557,7 +707,8 @@
   "brand": "Asics",
   "category": "Running",
   "img": "https://asics.vteximg.com.br/arquivos/ids/191005-1000-1000/1041A375_400_01.jpg?v=638261660829400000",
-  "price": "155.000"
+  "price": "155.000",
+  "description": "React foam cushioning for a responsive and comfortable ride during all types of workouts."
  },
  {
   "id": 69,  
@@ -565,7 +716,8 @@
   "brand": "Asics",
   "category": "Running",
   "img": "https://asics.vteximg.com.br/arquivos/ids/193067-1000-1000/1011B774_400_00.jpg?v=638374789155570000",
-  "price": "136.000"
+  "price": "136.000",
+  "description": "Strategic pivot points on the outsole for smooth transitions during agility drills."
  },
  {
   "id": 79,  
@@ -573,7 +725,8 @@
   "brand": "Asics",
   "category": "Running",
   "img": "https://asics.vteximg.com.br/arquivos/ids/193004-1000-1000/1011B764_100_00.jpg?v=638363563016600000",
-  "price": "124.000"
+  "price": "124.000",
+  "description": "Abrasion-resistant materials for durability during high-intensity training sessions."
  },
  {
   "id": 70,  
@@ -581,7 +734,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://thelinecl.b-cdn.net/img/products/ADI-HQ6638-1_1024.png",
-  "price": "160.000"
+  "price": "160.000",
+  "description": "Sophisticated fashion sneakers for a refined urban look."
  },
  {
   "id": 71,  
@@ -589,7 +743,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/75a21dc95e764ba5b37ff8b368a816da_9366/CAMPUS_00s_Verde_IH5058_01_standard.jpg",
-  "price": "160.000"
+  "price": "160.000",
+  "description": "Sophisticated fashion sneakers for a refined urban look."
  },
  {
   "id": 72,  
@@ -597,7 +752,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F07%2Fadidas-originals-grey-one-campus-GY9472-5.jpg?cbr=1&q=90",
-  "price": "160.000"
+  "price": "160.000",
+  "description": "Sophisticated fashion sneakers for a refined urban look."
  },
  {
   "id": 73,  
@@ -605,7 +761,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://essential.vtexassets.com/arquivos/ids/1298370-800-auto?v=638467456189900000&width=800&height=auto&aspect=true",
-  "price": "135.000"
+  "price": "135.000",
+  "description": "Sleek fashion sneakers perfect for urban nightlife."
  },
  {
   "id": 74,  
@@ -613,7 +770,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://media.revistagq.com/photos/600e95fd2e86c58dd2fc98fb/master/w_1600%2Cc_limit/Nike_air-max-1-lv8-dark-teal-green.jpg",
-  "price": "125.000"
+  "price": "125.000",
+  "description": "Trendy tech sneakers with a durable outsole for urban explorations."
  },
  {
   "id": 75,  
@@ -621,7 +779,8 @@
   "brand": "Adidas",
   "category": "Urbanas",
   "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2653d8a9-9c70-418e-829b-d70fe2737514/calzado-air-max-dn-q51Wwn.png",
-  "price": "145.000"
+  "price": "145.000",
+  "description": "Fashion-forward sneakers with urban appeal for trendsetting individuals."
  },
  {
   "id": 76,  
@@ -629,7 +788,8 @@
   "brand": "Adidas",
   "category": "Running",
   "img": "https://www.tradeinn.com/f/13993/139935064/adidas-zapatillas-running-switch-fwd.jpg",
-  "price": "105.000"
+  "price": "105.000",
+  "description": "Precision-engineered for balance and control during agility drills and balance exercises."
  },
  {
   "id": 77,  
@@ -637,7 +797,8 @@
   "brand": "Adidas",
   "category": "Running",
   "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/87cd0b80e0434c758b15ae9801598eb2_9366/Zapatillas_de_Running_adidas_4DFWD_2_Gris_GX9250_01_standard.jpg",
-  "price": "135.000"
+  "price": "135.000",
+  "description": "Adaptive fit technology for a customized feel and optimal performance during training."
  },
  {
   "id": 78,  
@@ -645,7 +806,8 @@
   "brand": "Adidas",
   "category": "Exclusivas",
   "img": "https://admin.itsnicethat.com/images/oHck3FXwxUZqqE4oyU2ZwbsRBjE=/225891/format-webp%7Cwidth-1440/stink-studios-rtfkt-nike-dunk-genesis-digital-itsnicethat-05.jpg",
-  "price": "235.000"
+  "price": "235.000",
+  "description": "Cushioned midsole with added rebound for vertical jumps and plyometric exercises."
  }
 ]
 

@@ -1,5 +1,15 @@
 .item-card{
     &:hover{
         background-color: rgb(234, 224, 224);
+        border: 1px black solid;
     }
+    
+    .card-title{
+        font-size: 1.5rem;
+    }
+    .card-description{
+        font-size: 1.2rem;
+        font-weight: 100;
+    }
+    
 }
