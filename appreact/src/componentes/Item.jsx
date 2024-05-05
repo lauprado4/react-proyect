@@ -7,10 +7,11 @@ export const Item = ({item}) => {
 
     return(
       <Card className="item-card" style={{ width: '18rem'}}>
-        <Card.Img variant="top" src={item.img} />
+        <Card.Img variant="top" src={item.imageId} />
         <Card.Body>
-          <Card.Title className='card-title'>{item.name}</Card.Title>
-          <Card.Text className='card-description'>{item.description}</Card.Text>
+          <Card.Title className='card-title'>{item.title}</Card.Title>
+          <Card.Text className='card-description'>{item.descriptionId}</Card.Text>
+          {/* <Card.Text>Stock: {item.stock}</Card.Text> */}
           <Card.Text>${item.price}</Card.Text>
           <Link to={`/item/${item.id}`}><Button variant="primary">Ver mas</Button></Link>
         </Card.Body>

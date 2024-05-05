@@ -5,29 +5,36 @@ import React from 'react';
 import data from "../data/products.json";
 import { ItemList } from "./ItemList";
 import { useParams } from "react-router-dom";
+import { getFirestore, getDocs, collection, query, where } from "firebase/firestore";
 
 
 export const ItemListContainer = () => {
-  const [items, setItems] = useState([])
-
+  const [items, setItems] = useState([]);
+  const [loading, setLoading] = useState(true)
   const {id} = useParams();
 
   useEffect(() => {
-    const get = new Promise((resolve, reject) => {
-       setTimeout(() => resolve(data), 2000);
-
-    })
-    get.then((data) => {
-      if(!id){
-        setItems(data);
+      const database = getFirestore();
+      
+      let refCollection;
+      
+      if(!id) {
+        refCollection = collection(database, "items");
+      } 
+      else {
+        refCollection = query(collection(database, "items"), where ("categoryId", "==" , id))
       }
-      else{
-        const filtered = data.filter(p => p.category === id);
-        setItems(filtered);
-      }
-     })
+      
+      
+      getDocs(refCollection).then((snapshot) => {
+        setItems(
+          snapshot.docs.map((doc) => {
+          return {id: doc.id, ...doc.data()};
+        })
+      )
+      })  
   }, [id])
-
+  
   return (
       <div className="card-container">
         <ItemList items={items} />
