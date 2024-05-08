@@ -1,6 +1,7 @@
 import { useContext, useState } from 'react';
 import { CartContext } from '../contexts/CartContext';
 import { getFirestore, collection, addDoc } from 'firebase/firestore';
+import Button from 'react-bootstrap/Button';
 import './Cart.css';
 
 const initialValues = {
@@ -11,7 +12,7 @@ const initialValues = {
 
 export const Cart = () => {
   const [values, setValues] = useState(initialValues);
-  const { clear, items } = useContext(CartContext);
+  const { clear, items, removeItem } = useContext(CartContext);
 
   const total = () => items.reduce((acc, i) => acc + i.quantity * i.price, 0);
 
@@ -44,19 +45,28 @@ export const Cart = () => {
         clear(), setValues(initialValues);
       });
   };
+
+  const handleRemove = (id) => removeItem(id);
+
+  const handleClear = (id) => clear(id)
+
+
   return (
     <>
       <h1>Productos</h1>
       {items.map((i) => {
         return (
-          <ul key={i.name}>
-            <li>{i.name}</li>
+          <ul key={i.title}>
+            <li>{i.title}</li>
             <li>Cantidad: {i.quantity}</li>
             <li>$ {i.price}</li>
+            <li onClick={() => handleRemove(i.id)}>X</li>
           </ul>
         );
       })}
       <div>Total: {total()}</div>
+      <Button style={{backgroundColor: "#222569", borderColor: "#222569", margin: "15px 0 15px 0"}} onClick={handleClear}>Vaciar carrito</Button>
+      <Button style={{backgroundColor: "#222569", borderColor: "#222569", margin: "15px 0 15px 0", marginLeft: "15px"}} onClick={handleSubmit}>Finalizar compra</Button>
       {items?.length > 0 && (
         <form>
           <label>Nombre completo </label>
@@ -80,9 +90,6 @@ export const Cart = () => {
             name="Phone"
             onChange={handleChange}
           />
-          <button type="button" onClick={handleSubmit}>
-            Enviar
-          </button>
         </form>
       )}
     </>

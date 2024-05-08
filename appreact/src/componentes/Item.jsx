@@ -13,7 +13,7 @@ export const Item = ({item}) => {
           <Card.Text className='card-description'>{item.descriptionId}</Card.Text>
           {/* <Card.Text>Stock: {item.stock}</Card.Text> */}
           <Card.Text>${item.price}</Card.Text>
-          <Link to={`/item/${item.id}`}><Button variant="primary">Ver mas</Button></Link>
+          <Link to={`/item/${item.id}`}><Button variant="primary" style={{backgroundColor: "#222569", borderColor: "#222569"}}>Ver mas</Button></Link>
         </Card.Body>
       </Card>
   );

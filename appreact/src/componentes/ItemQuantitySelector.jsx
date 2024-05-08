@@ -24,9 +24,9 @@ export const ItemQuantitySelector = ({ stock, item, onAdd }) => {
       <div className="button-container">
                 <h4>Cantidad: </h4>
                 <div className="cart-button">
-                  <Button className="btn btn-primary" style={{ fontSize: '1.5rem' }} onClick={handleDecrease}>-</Button>
+                  <Button className="btn btn-primary" style={{ fontSize: '1.5rem', backgroundColor: "#222569", borderColor: "#222569" }} onClick={handleDecrease}>-</Button>
                   <h5 style={{ margin: '3px 8px ' }} value={count}>{count}</h5>
-                  <Button className="btn btn-primary" style={{ fontSize: '1.5rem' }} onClick={handleIncrease}> + </Button>
+                  <Button className="btn btn-primary" style={{ fontSize: '1.5rem', backgroundColor: "#222569", borderColor: "#222569" }} onClick={handleIncrease}> + </Button>
                 </div>
               </div>
               <Link to={`/item/${item.id}`}>
@@ -36,6 +36,7 @@ export const ItemQuantitySelector = ({ stock, item, onAdd }) => {
               variant="primary"
               className="button-buy"
               onClick={handleAdd}
+              style={{backgroundColor: "#222569", borderColor: "#222569", margin: "15px 0 15px 0"}}
             >
               Agregar al carrito
             </Button>

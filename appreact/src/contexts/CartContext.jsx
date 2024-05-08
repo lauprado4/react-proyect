@@ -21,9 +21,10 @@ export const Provider = ({children }) => {
                         quantity: i.quantity + quantity}
                 } else {
                     return i;
-                }
-                setItems(updateItems);
-            })
+                }  
+            });
+            setItems(updateItems);
+            
         } else{
             setItems([...items, {...item, quantity}])};
         }
